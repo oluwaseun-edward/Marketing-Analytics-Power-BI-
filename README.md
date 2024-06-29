@@ -35,3 +35,6 @@ Project Scope:
 2. Data Modelling - Create and manage data relationships to facilitate time intelligence calculations. For this A date table was created in Power BI and then related to the fact data table.
 3. Data Analysis and Visualization - Several DAX measures were created to define the KPIs
 4. Reporting and recommendations: Insights and recommendations from the analysis were outlined
+
+Inspiration:
+The inspiration for this project is from amdari.io. The data for this project was synthesized using Microsoft Excel and follows the format of the similar project on Amdari. 
